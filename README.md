@@ -1,7 +1,7 @@
 # pgis-book-chapter
 ![](https://i.imgur.com/7vfcHWj.jpg)<br>
 [『参加型GISの理論と応用 〜みんなで作り・使う地理空間情報〜』（2017，古今書院）](http://www.kokon.co.jp/book/b281804.html)の期間限定公開用リポジトリです<br>
-　このGithubページは、この著作のうち、下記の部分について公開するものです
+　このGithubページは、この著作のうち、共編者の[瀬戸](https://researchmap.jp/tosseto)・[西村](https://researchmap.jp/nissy_yu)の執筆した下記の部分について公開するものです
 
 * 8章「PGISとオープンガバメント・オープンデータ」p52-57
 * 9章「PGISとオープンソースGIS・オープンな地理空間情報」p58-61
